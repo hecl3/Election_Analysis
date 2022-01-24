@@ -24,3 +24,22 @@ Findings
  Winning Vote Count: 272,892
  Winning Percentage: 73.8%
  -------------------------
+ 
+# Overview of Election Audit
+I was asked to further quantify my data by finding the following:
+  1. The voter turnout for each county
+  2. The percentage of votes from each county out of the total count
+  3. The county with the highest turnout
+The results were as follows:
+  County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+Winner: Denver
+Winning Vote Count: 306,055
+
+Summary
+Denver county by far had the greatest voter turn out at 82.8%, or 306,055 of the total voters. The next highest was Jefferson county accounting for 10.5% of the votes (38,855), and Araphahoe accounting for 6.7%. (24,801). 
+
+This code can be used for other elections. To change it based on needs, you could modify it to show voter count for each candidate based on county. 
